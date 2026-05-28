@@ -12,7 +12,7 @@ A Spring Boot REST API for managing patients, doctors, appointments, and billing
 - **MySQL**
 - **Maven**
 
-> ✅ No Lombok — all getters/setters written manually
+
 
 ---
 
